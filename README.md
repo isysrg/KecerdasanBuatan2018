@@ -1,5 +1,5 @@
 # KecerdasanBuatan2018
-Silahkan Kumpul Tugasnya disini ya :3
+Silahkan Kumpul Tugas disini
 
 Tugasnya dalam bentuk jupyter notebook.
 Dengan format : nim_nama_kelas
